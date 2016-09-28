@@ -1,6 +1,6 @@
-# want to see this in my github page
-# this is why i hate git
-something_variable = "nothing"
+'''
+Motherfucking Git
+'''
 
 class bcolors:
     HEADER = '\033[95m'
